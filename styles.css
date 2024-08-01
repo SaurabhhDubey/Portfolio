@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 * {
     margin: 0;
     padding: 0;
@@ -169,7 +169,6 @@ footer .footer-rights{
     text-align: center;
     color: gray;
     padding: 12px 0;
-=======
 * {
     margin: 0;
     padding: 0;
@@ -331,5 +330,5 @@ footer .footer-rights{
     text-align: center;
     color: gray;
     padding: 12px 0;
->>>>>>> 352b4131181bee10cacc08943dc943cb7c392ed1
+}
 }
